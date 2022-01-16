@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache Calcite on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/apache-calcite/</link>
+    <description>Recent content in Apache Calcite on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/apache-calcite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridging the Gap Between Kafka Streaming and Real Time Data Analysis</title>
+      <link>https://eerga.github.io/post/burroughs/</link>
+      <pubDate>Mon, 12 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/burroughs/</guid>
+      <description>Project Goal Our team made a Kafka topic behave similarly to a relational database to circumvent spending required for training analysts and data scientists to learn KSQL for real-time data analysis.
+Tools used  Java (Apache Calcite) Apache Kafka Docker ksqlDB  Project Link</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kai Chang</title>
+    <link>https://kaichang97.github.io/tags/</link>
+    <description>Recent content in Tags on Kai Chang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://kaichang97.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAS</title>
+      <link>https://kaichang97.github.io/tags/sas/</link>
+      <pubDate>Thu, 13 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/tags/sas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://kaichang97.github.io/tags/python/</link>
+      <pubDate>Thu, 09 Dec 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://kaichang97.github.io/tags/r/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RShiny</title>
+      <link>https://kaichang97.github.io/tags/rshiny/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/tags/rshiny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

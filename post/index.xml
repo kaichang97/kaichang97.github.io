@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kai Chang</title>
+    <link>https://kaichang97.github.io/post/</link>
+    <description>Recent content in Projects on Kai Chang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://kaichang97.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAS Optimization Challenge</title>
+      <link>https://kaichang97.github.io/post/sas/</link>
+      <pubDate>Thu, 13 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/sas/</guid>
+      <description>Abstract Building T currently receives their water through two sources: the Water Company and their ownXYZ Water Storage Tank. The company is currently deciding which Water Company contract to sign.
+Problem Statement Which of the two proposed contracts provides XYZ Corporation with the lowest total water cost over the next four weeks?
+Results Demand Forecasting   Contract 2 will have a lower cost based on our demand forecasting. By selecting the recommended contract over the alternative contract, XYZ will save $3,921.</description>
+    </item>
+    
+    <item>
+      <title>Craigslist Improve User Experience​</title>
+      <link>https://kaichang97.github.io/post/aud/</link>
+      <pubDate>Thu, 09 Dec 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/aud/</guid>
+      <description>Project Overview After reviewing Craigslist’s platform and interface, we discovered an area that would benefit the user-experience. Within Craigslists&#39; site “lost+found”, there is no option for posts to be automatically labeled as lost or found. By having the ad be automatically labeled as lost or found, it helps the advertisers to save time and ensures all posts are accurately labeled. As users looking within this section are clearly visiting this site with the intention of either viewing the site in terms of “lost” or “found”, we identified this as a problem that we could solve.</description>
+    </item>
+    
+    <item>
+      <title>US Hub Analysis</title>
+      <link>https://kaichang97.github.io/post/ushub/</link>
+      <pubDate>Thu, 10 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/ushub/</guid>
+      <description>Project Scope We are an airlines company that offers flights to different cities in the United States. We are based in New York City, and we currently offer flights from the 20 largest cities in the United States by population. Along with providing flights, our company also builds their own planes as well. Our goal is to use the techniques we learned in class to gain business insights about two different aspects of the business.</description>
+    </item>
+    
+    <item>
+      <title>Classification Algorithms to Forecast if a User Will Default Credit Card Payment</title>
+      <link>https://kaichang97.github.io/post/creditcard/</link>
+      <pubDate>Wed, 02 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/creditcard/</guid>
+      <description>Project Overview Credit Default forecast has been a subject of interest for every credit card company, and the accurate prediction on default can balance the lenders&#39; risk and return. Based on users&#39; historical and demographical information, lenders can modify their policy to the borrowers such as charging a higher rate for higher risks.
+Overall speaking, the aim of predicting credit default is to develop a predictive model that utilizes historical payment status and certain demographical information to evaluate the likeliness of credit default</description>
+    </item>
+    
+    <item>
+      <title>Guide to Picking a College Major</title>
+      <link>https://kaichang97.github.io/post/shinyapp/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/shinyapp/</guid>
+      <description>Abstract Each year, millions of high-school students face insurmountable pressure associated with choosing a college major. With a culture that follows a “Don’t know it, Google it” philosophy, more and more high school students turn to outside resources to help them. If you google “What should my major be? “over 1.8 billion search results appear. Now add to this, the potential to have long-term financial, emotional, and economical consequences from this and it becomes an immobilizing decision.</description>
+    </item>
+    
+    <item>
+      <title>Hulu Future Content Strategy</title>
+      <link>https://kaichang97.github.io/post/hulu/</link>
+      <pubDate>Mon, 24 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/hulu/</guid>
+      <description>Goal Every month, Hulu introduces new content to keep current customers and engage future customers. Our group is analyzing Hulu and competitor data, including when films were made, which age groups were targeted, the runtime of films, etc. to advise Hulu on what type of movies to launch in the coming months.
+Project Conclusion After analyzing descriptive statistic and conducting the decision tree in Python. We have the following conclusions:</description>
+    </item>
+    
+  </channel>
+</rss>

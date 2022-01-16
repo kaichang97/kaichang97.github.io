@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Kai Chang</title>
+    <link>https://kaichang97.github.io/tags/python/</link>
+    <description>Recent content in Python on Kai Chang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://kaichang97.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craigslist Improve User Experience​</title>
+      <link>https://kaichang97.github.io/post/aud/</link>
+      <pubDate>Thu, 09 Dec 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/aud/</guid>
+      <description>Project Overview After reviewing Craigslist’s platform and interface, we discovered an area that would benefit the user-experience. Within Craigslists&#39; site “lost+found”, there is no option for posts to be automatically labeled as lost or found. By having the ad be automatically labeled as lost or found, it helps the advertisers to save time and ensures all posts are accurately labeled. As users looking within this section are clearly visiting this site with the intention of either viewing the site in terms of “lost” or “found”, we identified this as a problem that we could solve.</description>
+    </item>
+    
+    <item>
+      <title>US Hub Analysis</title>
+      <link>https://kaichang97.github.io/post/ushub/</link>
+      <pubDate>Thu, 10 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/ushub/</guid>
+      <description>Project Scope We are an airlines company that offers flights to different cities in the United States. We are based in New York City, and we currently offer flights from the 20 largest cities in the United States by population. Along with providing flights, our company also builds their own planes as well. Our goal is to use the techniques we learned in class to gain business insights about two different aspects of the business.</description>
+    </item>
+    
+    <item>
+      <title>Hulu Future Content Strategy</title>
+      <link>https://kaichang97.github.io/post/hulu/</link>
+      <pubDate>Mon, 24 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/hulu/</guid>
+      <description>Goal Every month, Hulu introduces new content to keep current customers and engage future customers. Our group is analyzing Hulu and competitor data, including when films were made, which age groups were targeted, the runtime of films, etc. to advise Hulu on what type of movies to launch in the coming months.
+Project Conclusion After analyzing descriptive statistic and conducting the decision tree in Python. We have the following conclusions:</description>
+    </item>
+    
+  </channel>
+</rss>

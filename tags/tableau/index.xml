@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/tableau/</link>
+    <description>Recent content in Tableau on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dive Into World Suicide Data</title>
+      <link>https://eerga.github.io/post/suicide/</link>
+      <pubDate>Fri, 11 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/suicide/</guid>
+      <description>Project Motivation As someone who absolutely loves life, I wanted to explore what were some of the main driving mechanisms behind suicide and what can be done with the data
+Project Source WHO Suicide Statistics
+Key Findings  Even though some of the highest suicide numbers reported are in Russia, United States, and Japan, the suicide % rate per capita is the highest for Lithuania, Hungary, and Russia as can be seen in the following figure:   The study would have been more comprehensive if data from China and India were included.</description>
+    </item>
+    
+  </channel>
+</rss>

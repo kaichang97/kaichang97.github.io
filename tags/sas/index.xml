@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAS on Kai Chang</title>
+    <link>https://kaichang97.github.io/tags/sas/</link>
+    <description>Recent content in SAS on Kai Chang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://kaichang97.github.io/tags/sas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAS Optimization Challenge</title>
+      <link>https://kaichang97.github.io/post/sas/</link>
+      <pubDate>Thu, 13 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/sas/</guid>
+      <description>Abstract Building T currently receives their water through two sources: the Water Company and their ownXYZ Water Storage Tank. The company is currently deciding which Water Company contract to sign.
+Problem Statement Which of the two proposed contracts provides XYZ Corporation with the lowest total water cost over the next four weeks?
+Results Demand Forecasting   Contract 2 will have a lower cost based on our demand forecasting. By selecting the recommended contract over the alternative contract, XYZ will save $3,921.</description>
+    </item>
+    
+    <item>
+      <title>Classification Algorithms to Forecast if a User Will Default Credit Card Payment</title>
+      <link>https://kaichang97.github.io/post/creditcard/</link>
+      <pubDate>Wed, 02 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/creditcard/</guid>
+      <description>Project Overview Credit Default forecast has been a subject of interest for every credit card company, and the accurate prediction on default can balance the lenders&#39; risk and return. Based on users&#39; historical and demographical information, lenders can modify their policy to the borrowers such as charging a higher rate for higher risks.
+Overall speaking, the aim of predicting credit default is to develop a predictive model that utilizes historical payment status and certain demographical information to evaluate the likeliness of credit default</description>
+    </item>
+    
+  </channel>
+</rss>

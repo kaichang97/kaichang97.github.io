@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/sql/</link>
+    <description>Recent content in SQL on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>College Review Website</title>
+      <link>https://eerga.github.io/post/sqlcollege/</link>
+      <pubDate>Wed, 21 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/sqlcollege/</guid>
+      <description>Project Overview Our data analytics team is consulting for Niche.com. While Niche is a reputable resource in the American market, the website is limited to the US market. Our firm has been brought in to expand upon their current data set by introducing more distinguishing fields as well as to establish data on universities from abroad in order to grow their user base internationally.
+Data Used  World University Rankings Salaries by College Type Recent College Grads Can Expect to Make the Highest Salaries in Germany and US Cost of Living  Question Asked and Sample Query Is having a higher rate of international students and smaller student to staff ratio related to higher Mid-Career 90th Percentile Salary?</description>
+    </item>
+    
+    <item>
+      <title>Twitter &amp; Plane Landing Correlation Assessment</title>
+      <link>https://eerga.github.io/post/twitter/</link>
+      <pubDate>Sat, 12 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/twitter/</guid>
+      <description>Project Scope Google Cloud Platform (GCP) has real-time Twitter and flights datasets available. We decided to explore the possibility of correlation between the number of successfully landed commercial flights and overall Twitter activity. Assuming this hypothesis is proven, our team would have recommended Twitter to make a joint program with airlines using the hashtag #landedsafelywith[name_of_the_airline_company] to promote flights for specific airlines. As a result, this would create a mutually beneficial relationship between Twitter and the associated airline companies.</description>
+    </item>
+    
+    <item>
+      <title>Market Share Decrease Analysis of the NYC Yellow Cab Company</title>
+      <link>https://eerga.github.io/post/nyctaxi/</link>
+      <pubDate>Fri, 11 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/nyctaxi/</guid>
+      <description>Project Scope Our Data Analytics team utilized GCP and Data Studio to conduct exploratory analysis (EDA) along with utilizing machine learning algorithms to identify areas of improvement for the Yellow Cab company and come up with suggestions that would increase its market share.
+ML Models The two main machine learning models used were Boosted Classifier Tree and Linear Regression
+One of the key exploratory findings  Not only is it possible to see that the highest activity of NYC Yellow Cab is in the Manhattan neighborhood but also that credit cards was the most utilized payment option.</description>
+    </item>
+    
+  </channel>
+</rss>

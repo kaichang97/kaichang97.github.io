@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Kai Chang</title>
+    <link>https://kaichang97.github.io/tags/r/</link>
+    <description>Recent content in R on Kai Chang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://kaichang97.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to Picking a College Major</title>
+      <link>https://kaichang97.github.io/post/shinyapp/</link>
+      <pubDate>Sun, 04 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kaichang97.github.io/post/shinyapp/</guid>
+      <description>Abstract Each year, millions of high-school students face insurmountable pressure associated with choosing a college major. With a culture that follows a “Don’t know it, Google it” philosophy, more and more high school students turn to outside resources to help them. If you google “What should my major be? “over 1.8 billion search results appear. Now add to this, the potential to have long-term financial, emotional, and economical consequences from this and it becomes an immobilizing decision.</description>
+    </item>
+    
+  </channel>
+</rss>

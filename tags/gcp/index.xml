@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GCP on Erika Ergart</title>
+    <link>https://eerga.github.io/tags/gcp/</link>
+    <description>Recent content in GCP on Erika Ergart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Dec 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://eerga.github.io/tags/gcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter &amp; Plane Landing Correlation Assessment</title>
+      <link>https://eerga.github.io/post/twitter/</link>
+      <pubDate>Sat, 12 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/twitter/</guid>
+      <description>Project Scope Google Cloud Platform (GCP) has real-time Twitter and flights datasets available. We decided to explore the possibility of correlation between the number of successfully landed commercial flights and overall Twitter activity. Assuming this hypothesis is proven, our team would have recommended Twitter to make a joint program with airlines using the hashtag #landedsafelywith[name_of_the_airline_company] to promote flights for specific airlines. As a result, this would create a mutually beneficial relationship between Twitter and the associated airline companies.</description>
+    </item>
+    
+    <item>
+      <title>Market Share Decrease Analysis of the NYC Yellow Cab Company</title>
+      <link>https://eerga.github.io/post/nyctaxi/</link>
+      <pubDate>Fri, 11 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://eerga.github.io/post/nyctaxi/</guid>
+      <description>Project Scope Our Data Analytics team utilized GCP and Data Studio to conduct exploratory analysis (EDA) along with utilizing machine learning algorithms to identify areas of improvement for the Yellow Cab company and come up with suggestions that would increase its market share.
+ML Models The two main machine learning models used were Boosted Classifier Tree and Linear Regression
+One of the key exploratory findings  Not only is it possible to see that the highest activity of NYC Yellow Cab is in the Manhattan neighborhood but also that credit cards was the most utilized payment option.</description>
+    </item>
+    
+  </channel>
+</rss>
